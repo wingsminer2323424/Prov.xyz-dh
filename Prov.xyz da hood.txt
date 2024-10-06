@@ -2720,7 +2720,7 @@ Menu.Tab("Anti Aim")
 Menu.Tab("Visuals")
 Menu.Tab("Settings")
 
-Menu:SetTitle("208.rip | Developer")
+Menu:SetTitle("Prov.xyz | Beta")
 Menu:SetVisible(true)
 Menu:Init()
 
